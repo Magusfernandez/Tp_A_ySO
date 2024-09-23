@@ -1,0 +1,16 @@
+su 
+mkdir repogit
+cd repogit
+pwd
+man tree
+cd ..
+pwd
+cd repogit
+sudo apt update
+sudo useradd yo
+cd ..
+ls
+man ls
+ls -la
+su
+sudo apt update && sudo apt upgrade
